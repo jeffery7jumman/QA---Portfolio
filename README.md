@@ -1,4 +1,4 @@
-# QA Portfolio – [Jeffery Juma]
+# QA Portfolio – Jeffery Juma
 
 Welcome to my QA testing portfolio. This repository showcases my approach to manual testing, bug reporting, and documentation. It includes real-world inspired test cases, bug reports, and structured QA artifacts—demonstrating how I contribute to product quality, usability, and reliability.
 
