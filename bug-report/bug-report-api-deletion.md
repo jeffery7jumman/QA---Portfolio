@@ -20,7 +20,7 @@ Reproducibility: ✅ 3/3
 - **Device**: MacBook Pro (15-inch, 2019)  
 - **OS**: macOS Sequoia 15.5  
 - **Browser**: Chrome  
-- **App Version**: [https://XXXXXXXXXXX.XXXXXX](https://XXXXXXXXXXX.XXXXXX)  
+- **App Version**: [https://XXXXXXXXXXX.XXXXXX](https://xxxxxxxxxxxxxxxxxxx.xxx)  
 - **Network**: Wi-Fi  
 - **Location**: Kenya  
 
