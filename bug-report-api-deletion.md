@@ -11,7 +11,8 @@ User Management > Client Credentials
 
 ### Test Run
 #2818  
-Date: 06/07/2025–07/07/2025  
+Date: 06/07/2025–07/07/2025
+Severity: High  
 Reproducibility: ✅ 3/3
 
 ### 🌐 Environment
