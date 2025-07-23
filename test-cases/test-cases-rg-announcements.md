@@ -28,7 +28,7 @@ These test cases validate:
 | Test Case ID | Description                                                                 | Expected Result                                       | Status           |
 |--------------|-----------------------------------------------------------------------------|-------------------------------------------------------|------------------|
 | TC_RG_024    | Navigate to Quota section; test valid, invalid, and boundary values         | Validations enforce correct input                     | PASS             |
-| TC_RG_025    | Confirm no regression from recent changes                                   | All expected behaviors remain                         | ⚠️ Issue #737983 |
+| TC_RG_025    | Confirm no regression from recent changes                                   | All expected behaviors remain                         | ⚠️ [Issue #737983](https://github.com/jeffery7jumman/QA---Portfolio/blob/main/bug-report/bug-report-quota-checkbox.md) |
 
 ---
 
