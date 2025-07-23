@@ -10,8 +10,8 @@ Welcome to my QA testing portfolio. This repository showcases my approach to man
 
 | File | Description |
 |------|-------------|
-| [test-cases-api-management.md](test-cases/test-cases-api-management.md) | Functional test cases for API key creation, editing, deletion, and credential management under User Management. |
-| [test-cases-rg-announcements.md](test-cases/test-cases-rg-announcements.md) | Test cases covering Reporting Group configuration: rounding, quota editing, announcement handling, and inheritance. |
+| [test-cases-api-management.md]([test-cases/test-cases-api-management.md](https://github.com/jeffery7jumman/QA---Portfolio/blob/main/test-cases-api-management.md)) | Functional test cases for API key creation, editing, deletion, and credential management under User Management. |
+| [test-cases-rg-announcements.md]([test-cases/test-cases-rg-announcements.md](https://github.com/jeffery7jumman/QA---Portfolio/blob/main/test-cases-rg-announcements.md)) | Test cases covering Reporting Group configuration: rounding, quota editing, announcement handling, and inheritance. |
 
 ---
 
@@ -19,8 +19,8 @@ Welcome to my QA testing portfolio. This repository showcases my approach to man
 
 | File | Description |
 |------|-------------|
-| [bug-report-api-deletion.md](bug-reports/bug-report-api-deletion.md) | Bug report for API key deletion failure – internal error shown on delete. |
-| [bug-report-quota-checkbox.md](bug-reports/bug-report-quota-checkbox.md) | UI desync bug where the 'Dynamic Quota' checkbox visually reverts after save. |
+| [bug-report-api-deletion.md](https://github.com/jeffery7jumman/QA---Portfolio/blob/main/bug-report-api-deletion.md) | Bug report for API key deletion failure – internal error shown on delete. |
+| [bug-report-quota-checkbox.md]([bug-reports/bug-report-quota-checkbox.md](https://github.com/jeffery7jumman/QA---Portfolio/blob/main/bug-report-quota-checkbox.md)) | UI desync bug where the 'Dynamic Quota' checkbox visually reverts after save. |
 
 ---
 
