@@ -19,7 +19,7 @@ Welcome to my QA testing portfolio. This repository showcases my approach to man
 
 | File | Description |
 |------|-------------|
-| [bug-report-api-deletion.md](https://github.com/jeffery7jumman/QA---Portfolio/blob/main/bug-report-api-deletion.md) | Bug report for API key deletion failure – internal error shown on delete. |
+| [bug-report-api-deletion.md](https://github.com/jeffery7jumman/QA---Portfolio/blob/main/bug-report/bug-report-api-deletion.md) | Bug report for API key deletion failure – internal error shown on delete. |
 | [bug-report-quota-checkbox.md](https://github.com/jeffery7jumman/QA---Portfolio/blob/main/bug-report/bug-report-quota-checkbox.md) | UI desync bug where the 'Dynamic Quota' checkbox visually reverts after save. |
 
 ---
