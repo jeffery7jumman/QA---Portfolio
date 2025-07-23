@@ -41,9 +41,9 @@
 
 | Test Case ID | Description                                                                 | Expected Result                         | Status                  |
 |--------------|-----------------------------------------------------------------------------|-----------------------------------------|-------------------------|
-| TC_API_018   | API key deletion from detail view                                           | Deletion successful                     | ❌ FAIL (Issue #734116) |
+| TC_API_018   | API key deletion from detail view                                           | Deletion successful                     | ❌ FAIL [Issue #734116](https://github.com/jeffery7jumman/QA---Portfolio/blob/main/bug-report/bug-report-api-deletion.md) |
 | TC_API_019   | Confirmation dialog appears before deletion                                 | Dialog shown                            | BLOCKED |
-| TC_API_020   | Deleted key is removed from list and inaccessible                           | Key removed                             | ❌ FAIL (Issue #734116) |
+| TC_API_020   | Deleted key is removed from list and inaccessible                           | Key removed                             | ❌ FAIL [Issue #734116](https://github.com/jeffery7jumman/QA---Portfolio/blob/main/bug-report/bug-report-api-deletion.md) |
 
 
 ## 📝 Outcome Summary
