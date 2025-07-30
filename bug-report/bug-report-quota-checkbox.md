@@ -13,7 +13,8 @@ Network > Rating Group > Voice > Quota
 #2905  
 Date: 20/07/2025–21/07/2025
 
-Severity: Medium  
+Severity: Medium
+Priority: High  
 Reproducibility: ✅ 3/3
 
 ### 🌐 Environment
