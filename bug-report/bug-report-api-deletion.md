@@ -13,7 +13,8 @@ User Management > Client Credentials
 #2818  
 Date: 06/07/2025–07/07/2025
 
-Severity: High  
+Severity: High
+Priority: Critical  
 Reproducibility: ✅ 3/3
 
 ### 🌐 Environment
