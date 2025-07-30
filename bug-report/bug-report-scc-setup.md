@@ -1,4 +1,4 @@
-# 🐞 Bug Report — SCC Setup Fails with “Something Went Wrong” After Final Submission
+# Bug Report — SCC Setup Fails with “Something Went Wrong” After Final Submission
 
 ## Bug ID: `#734127`
 **Category:** Secure Credit Card  
@@ -59,13 +59,13 @@ After completing the SCC setup, instead of a success message, the user sees:
 
 ---
 
-### 📛 Impact
+### Impact
 
 This blocks users from adding the product to their profile.
 
 ---
 
-### 🔧 Suggested Fix
+### Suggested Fix
 
 - Investigate backend submission logic for the final SCC setup step  
 - Validate if the error stems from:
@@ -75,4 +75,3 @@ This blocks users from adding the product to their profile.
 - Improve logging and display a user-friendly fallback message if the error occurs
 
 ---
-
