@@ -137,7 +137,7 @@ Tested across common scenarios, edge cases, and invalid input handling.
 | TC_CARD_041    | Add a new funding source using Plaid, manually or debit card                | New source added as a funding source                  | PASS ✅     |
 | TC_CARD_042    | Add delivery address                                                        | Address required and validated                        | PASS ✅     |
 | TC_CARD_043    | Leave Accept terms checkbox unchecked                                       | 'Complete Set-up' button remains disabled             | PASS ✅     |
-| TC_CARD_044    | Accept terms and complete setup                                             | Setup finishes and success page shown                 | ❌, Issue [#734127](https://github.com/jeffery7jumman/QA---Portfolio/blob/main/bug-report/bug-report-scc-setup.md)     |
+| TC_CARD_044    | Accept terms and complete setup                                             | Setup finishes and success page shown                 | FAIL ❌, ⚠️ Issue [#734127](https://github.com/jeffery7jumman/QA---Portfolio/blob/main/bug-report/bug-report-scc-setup.md)     |
 
 ---
 
